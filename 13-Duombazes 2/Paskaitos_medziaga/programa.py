@@ -12,3 +12,5 @@ sunukiai = session.query(Projektas).filter(Projektas.price > 5_000).filter(Proje
 sunukiai[0].price = 15_000
 session.commit()
 pass
+
+pass
