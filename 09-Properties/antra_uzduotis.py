@@ -9,5 +9,5 @@ class Person():
 
     @property
     def fullname(self):
-        return self.name + ' '+ self.surname
+        return self.name + ' ' + self.surname #smulkus pataisymas
     
