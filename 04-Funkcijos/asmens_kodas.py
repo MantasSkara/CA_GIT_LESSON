@@ -1,4 +1,4 @@
-def grazinti_asmens_kodo_kontrolinį(asmens_kodas):
+def grazinti_asmens_kodo_kontrolini(asmens_kodas): #pakeičiau "į į "i žodyje 'kontrolini' funkcijos pavadinime, kad programa geriau suprastų"
     kodas = str(asmens_kodas)
     A = int(kodas[0])
     B = int(kodas[1])
