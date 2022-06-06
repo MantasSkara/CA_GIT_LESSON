@@ -1,4 +1,4 @@
-zodis = "Rokas Bieliauskas"
+zodis = "Adomas Bieliauskas"
 
 print(zodis)
 print(zodis[11])
